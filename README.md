@@ -17,4 +17,4 @@ add `plugin-zawgyicss` in `plugins`
 "plugins": [
       "plugin-zawgyicss"
       ]
-``
+```
