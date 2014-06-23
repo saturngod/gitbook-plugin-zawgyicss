@@ -1,0 +1,28 @@
+{
+  "name": "plugin-zawgyicss",
+  "description": "Change to zawgyi font family",
+  "main": "index.js",
+  "version": "0.0.2",
+  "engines": {
+    "gitbook": ">=0.4.6"
+  },
+  "homepage": "https://github.com/saturngod/plugin-zawgyicss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saturngod/plugin-zawgyicss"
+  },
+  "keywords": [
+    "gitbookio",
+    "gitbook",
+    "zawgyi",
+    "plugin"
+  ],
+  "author": "saturngod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saturngod/plugin-zawgyicss/issues"
+  }
+}
