@@ -1,7 +1,5 @@
-@font-face {
-font-family:'Zawgyi-One';
-src:local('Zawgyi-One'),url('./zawgyi.ttf');
-}
-.book-body p , .book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6,.book-body div,.book-body span {
+@import url('http://mmwebfonts.comquas.com/fonts/?font=zawgyi');
+
+.book-body p , .book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6,.book-body div,.book-body span ,  .summary , .summary li , .summary li a  {
     font-family : "Zawgyi-One";
 }
