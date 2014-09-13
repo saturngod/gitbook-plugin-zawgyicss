@@ -2,7 +2,7 @@
   "name": "plugin-zawgyicss",
   "description": "Change to zawgyi font family",
   "main": "index.js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "gitbook": ">=0.4.6"
   },
